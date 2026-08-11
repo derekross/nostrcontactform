@@ -7,3 +7,7 @@ Edit script.js
 Update RECIPIENT_NPUB and RELAYS with your desired npub and relays.
 
 That's it!
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 or later — see the [LICENSE](LICENSE) file for details.
